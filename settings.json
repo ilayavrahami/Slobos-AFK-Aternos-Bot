@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ilay1213.aternos.me:55425",
+    "ip": "ilay1213.aternos.me",
     "port": 55425,
     "version": "",
     "try-creative": false
